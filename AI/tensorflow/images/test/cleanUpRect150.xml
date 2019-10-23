@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>cleanUpRect150.jpg</filename>
+	<path>C:\Users\rrb12\Desktop\models\research\object_detection\images\test\cleanUpRect150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>181</ymin>
+			<xmax>416</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

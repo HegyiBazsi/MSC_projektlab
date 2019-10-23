@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>flipStarVertical1058.jpg</filename>
+	<path>C:\Users\rrb12\Desktop\models\research\object_detection\images\train\flipStarVertical1058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>52</ymin>
+			<xmax>387</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

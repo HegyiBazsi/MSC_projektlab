@@ -1,0 +1,14 @@
+item{
+	id: 1
+	name: 'circle'
+}
+
+item{
+	id: 2
+	name: 'rect'
+}
+
+item{
+	id: 3
+	name: 'star'
+}

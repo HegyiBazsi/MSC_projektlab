@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>translationCircle033.jpg</filename>
+	<path>C:\Users\rrb12\Desktop\models\research\object_detection\images\train\translationCircle033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>85</ymin>
+			<xmax>390</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

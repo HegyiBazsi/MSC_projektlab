@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cleanUpRect157.jpg</filename>
+	<path>C:\Users\rrb12\Desktop\models\research\object_detection\images\train\cleanUpRect157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>99</ymin>
+			<xmax>422</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

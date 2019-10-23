@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>green587.png</filename>
+	<path>C:\Users\rrb12\Desktop\models\research\object_detection\images\train\green587.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>172</ymin>
+			<xmax>309</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
